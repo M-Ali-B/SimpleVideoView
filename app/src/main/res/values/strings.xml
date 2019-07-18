@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleVideoView</string>
+    <string name="buffering">Buffering...</string>
+</resources>
